@@ -2,4 +2,4 @@ The project aims to provide a comprehensive set of assistance features to aid a 
 
 FINAL CODE : cloudvisreq2.py
 
-To run the project: python cloudvisreq2.py <google application credentials> <image file>
+To run the project: python cloudvisreq2.py <google api key> <image file>
